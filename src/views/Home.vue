@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <startComponent msg="Start Component launched "/>
+    <div class="flex justify-center align-center">
+          <img alt="Vue logo" src="../assets/logo.png">
+    </div>
+    <startComponent msg="Start Component Loading...  "/>
   </div>
 </template>
 
